@@ -1,0 +1,11 @@
+name: redisfordart
+version: 0.1.0
+authors:
+- Ahlrimante Yates <ayates@studionaito.com>
+description: Redis client for dart
+homepage: https://github.com/studioNAITO/redisfordart
+repository: https://github.com/studioNAITO/redisfordart
+issue_tracker: https://github.com/studioNAITO/redisfordart/issues
+
+environment:
+  sdk: '>=2.17.1 <3.0.0'
